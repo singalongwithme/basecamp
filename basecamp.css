@@ -1,0 +1,233 @@
+.page_style {
+	margin: 0;
+	padding-bottom: 50px;
+	font-size: 14px;
+	line-height: 1.2em;
+	color: #000;
+	font-family: Helvetica;
+}
+
+.fitted {
+	display: block;
+	width: 1000px;
+	margin: 0 auto 20px;
+}
+
+.fitted nav {
+	overflow: hidden;
+	padding: 20px 30px 10px;
+	border-bottom: 1px solid #D4CDC1;
+	position: relative;
+}
+
+.logo {
+	padding-top: 20px;
+	padding-bottom: 0;
+}
+.top_links {
+	list-style-type: none;
+	float: right;
+	margin: -40px -60px 0 0;
+	padding: 0;
+}
+
+nav .top_links li {
+	display: block;
+	float: left;
+	font-size: 14px;
+	margin-right: 30px;
+	text-align: center;
+	line-height: 1.1em
+}
+
+strong {
+	font-size: 16px;
+	color: #285CD4;
+}
+
+.log_in {
+	margin: 0 0 0 10px;
+	background-color: #285CD4;
+	padding: 8px 14px 9px 14px;
+}
+
+.log_in a {
+	color: white;
+}
+
+.log_in:hover {
+	background-color: #132A5E;
+	text-decoration: none;
+}
+
+#heading {
+	padding: 40px 0 60px;
+	/*background: none;*/
+	width: 800px;
+	margin: 0 auto;
+}
+
+h1 {
+	font-size: 44px;
+	letter-spacing: -1px;
+	text-align: center;
+	margin: 0;
+	line-height: 1.1em;
+}
+
+.drawing {
+	overflow: hidden;
+	position: relative;
+	margin-top: -40px;
+	border-bottom: 1px solid #D4CDC1;
+	background: url("http://basecamp.com/assets/images/home-sign-up/signup-drawing2.png") no-repeat;
+}
+
+aside {
+	float: left;
+	width: 170px;
+	margin-left: 60px;
+	margin-top: 50px;
+	position: absolute;
+}
+
+.left_quote {
+	font-size: 16px;
+	line-height: 20px;
+	margin: -5px 0 0 -16px;
+	text-align: center;
+}
+
+.girl {
+	float: left;
+	margin: 100px 0 0 200px;
+	width: 378px;
+	height: 465px;
+	background: url("http://basecamp.com/assets/images/home-sign-up/joy.png") no-repeat;
+	background-size: 375px 465px;
+}
+
+.signup {
+	float: left;
+	border: 0;
+	padding: 65px 0 0;
+	margin-left: 10px;
+	background: transparent;
+	margin: 0 auto;
+	width: 360px;
+	border-radius: 9px;
+	position: relative;
+	text-align: center;
+}
+
+h2 {
+	margin: 0 0 10px;
+	color: red;
+	font-size: 25px;
+}
+
+.signup p {
+	margin: 11px 30px;
+	font-weight: normal;
+	font-size: 12px;
+}
+
+.form {
+	margin-top: 15px;
+}
+
+.input {
+	display: block;
+	position: relative;
+	text-align: left;
+	padding-bottom: 15px;
+}
+
+.signup input:focus {
+	background-color: white;
+	border: 1px solid green;
+	box-shadow: green 0px 0px 5px;
+	outline: none;
+}
+
+/*span {
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 40px;
+	color: #A9A9A9;
+	cursor: text;
+	text-align: left;
+	font-size: 18px;
+}
+*/
+.text_bar {
+	z-index: 0;
+	font-size: 18px;
+	border: 1px solid grey;
+	border-top: 1px solid black;
+	border-radius: 3px;
+	display: block;
+	height: 25px;
+	padding: 5px;
+	margin: 0 15px 0px 30px;
+	width: 290px;
+}
+
+.trial {
+	color: white;
+	border-radius: 3px;
+	font-size: 13px;
+	height: 42px;
+	padding: 0 10px;
+	cursor: pointer;
+	background-color: green;
+	display: inline;
+	width: auto;
+}
+
+.terms {
+	margin: 0 30px;
+	font-weight: normal;
+	font-size: small;
+}
+
+.caption {
+	margin-top: 510px;
+	margin-left: 10px;
+	position: absolute;
+	border: none;
+}
+
+.find_out_why {
+	width: 840px;
+	margin: 40px auto 40px;
+}
+
+.find_out_why h1 {
+	font-size: 44px;
+	letter-spacing: -1px;
+	line-height: 50px;
+	margin: 0;
+}
+
+.find_out_why h3 {
+	font-size: 30px;
+	line-height: 40px;
+	margin: 0;
+	text-align: center;
+}
+
+#bottom {
+	border-top: 1px solid #D4CDC1;
+	padding: 10px 30px;
+	clear: both;
+	margin: 30px auto;
+}
+
+#bottom span {
+	color: #D4CDC1;
+}
+
+a {
+	color: #4C92ED;
+}
